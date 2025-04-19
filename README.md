@@ -1,2 +1,2 @@
-# tenzin-cloud
-Welcome to my github organization tenzin-cloud.  This organization hosts my home lab repositories.
+# README
+This repository manages my GitHub organization profile's README and other documents.
